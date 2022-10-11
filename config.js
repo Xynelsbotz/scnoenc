@@ -30,26 +30,26 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/denarajb'
-global.sgh = '-' //github
+global.sig = 'https://instagram.com/xynels.design'
+global.sgh = 'https://github.com/Xynelsbotz' //github
 global.sgc = 'https://chat.whatsapp.com/BiHY7oEBhQo1CsDeZgQ5dA' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/c/DenaraBot' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '085727492435' //dana
-global.povo = '085727492435' //ovo
+global.pdana = '085646458928' //dana
+global.povo = '085854337533' //ovo
 global.pgopay = 'minta ke owner' //gopay
-global.plinkaja = '085727492435' //link aja
-global.ppulsa = '081215626270' //telkomsel
-global.ppulsa2 = '085727492435' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/denarabot26'
+global.plinkaja = '-' //link aja
+global.ppulsa = '085646458928' //telkomsel
+global.ppulsa2 = '085854337533' // kalau ada kartu lain isi aja
+global.psaweria = 'https://saweria.co/SayuOgiwaraa4'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285727492435'
-global.nomorown = '6281215626270'
-global.namebot = 'DENARA-BOT-V1'
-global.nameown = 'DENARA BOT'
+global.nomorbot = '6285646458928'
+global.nomorown = '6285854337533'
+global.namebot = 'INFINELS-BOT'
+global.nameown = 'XYNELS'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,8 +58,8 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281215626270', 'DENARA', true],
-  ['-', 'isi_kalau_ada', true],
+  ['6285854337533', 'XYNELS', true],
+  ['6285646458928', 'INFINELS-BOT', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
@@ -109,21 +109,21 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 DENARA-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘DENARA-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ DENARA-BOT-V1 '
+global.wm = '                「 INFINELS 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ INFINELS-BOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ INFINELS-BOT '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By DENARA-BOT`
-global.author = '                「 DENARA-BOT-V1  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By XYNELS`
+global.author = '                「 INFINELS  あ」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/XZrK6yQ/transformers.jpg' //Main Thumbnail
-global.imagebot = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
+global.thumb = 'https://telegra.ph/file/8069c37e6a5621aee9b62.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/8069c37e6a5621aee9b62.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
-global.fla = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
+global.thumbs = ['https://telegra.ph/file/8069c37e6a5621aee9b62.jpg']
+global.fla = 'https://telegra.ph/file/8069c37e6a5621aee9b62.jpg'
 global.flaaa2 = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=',
@@ -159,7 +159,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/7dc02d60dae135f592d33.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'DENARA-BOT-V1'
-global.stickauth = `By ©DENARA BOT`
+global.stickpack = 'INFINELS-BOT'
+global.stickauth = `By ©XYNELS`
 
 global.multiplier = 38 // The higher, The harder levelup
 
